@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou Murilo Perine!
 
-<!--
-**perine1705/perine1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor em formação | Estudante de Tecnologia
 
-Here are some ideas to get you started:
+Sou estudante de Desenvolvimento de Software, com interesse em programação, desenvolvimento web e criação de soluções tecnológicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estudo e desenvolvo minhas habilidades nas seguintes tecnologias:
+
+- **HTML5** — Estruturação de páginas web.
+- **CSS3** — Estilização e criação de layouts responsivos.
+- **JavaScript** — Interatividade e funcionalidades web.
+- **Python** — Lógica de programação e automação.
+- **C++** — Fundamentos de programação e desenvolvimento de software.
+
+### Objetivos
+
+Busco aprimorar continuamente meus conhecimentos, desenvolver projetos práticos e evoluir como profissional da tecnologia.
+
+### Tecnologias e ferramentas
+
+`HTML5` `CSS3` `JavaScript` `Python` `C++` `Git` `GitHub` `VS Code`
+
+### Contato
+
+- **GitHub:** [Seus projetos e repositórios](https://github.com/)
