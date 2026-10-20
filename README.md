@@ -1,25 +1,45 @@
-# Olá, eu sou Murilo Perine!
+# Murilo Perine
 
-### Desenvolvedor em formação | Estudante de Tecnologia
+### Estudante de Programação | Desenvolvimento Web | Desenvolvimento de Jogos
 
-Sou estudante de Desenvolvimento de Software, com interesse em programação, desenvolvimento web e criação de soluções tecnológicas.
+Estudante de programação interessado em desenvolvimento web, criação de jogos e robótica. Atualmente, estou aprimorando minhas habilidades em diferentes linguagens e desenvolvendo projetos práticos para expandir meus conhecimentos em tecnologia.
 
-Atualmente, estudo e desenvolvo minhas habilidades nas seguintes tecnologias:
+## Tecnologias
 
-- **HTML5** — Estruturação de páginas web.
-- **CSS3** — Estilização e criação de layouts responsivos.
-- **JavaScript** — Interatividade e funcionalidades web.
-- **Python** — Lógica de programação e automação.
-- **C++** — Fundamentos de programação e desenvolvimento de software.
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
+</p>
 
-### Objetivos
+## Projetos
 
-Busco aprimorar continuamente meus conhecimentos, desenvolver projetos práticos e evoluir como profissional da tecnologia.
+### Dungeonfall — Jogo para navegador
 
-### Tecnologias e ferramentas
+Jogo desenvolvido com tecnologias web, explorando programação, interatividade e desenvolvimento de jogos.
 
-`HTML5` `CSS3` `JavaScript` `Python` `C++` `Git` `GitHub` `VS Code`
+- **Jogar:** [Acessar Dungeonfall](https://perine1705.github.io/Dungeonfall/)
+- **Código-fonte:** [Repositório no GitHub](https://github.com/perine1705/Dungeonfall)
 
-### Contato
+### Chácara do Vô Roberto — Desenvolvimento Web
 
-- **GitHub:** [Seus projetos e repositórios](https://github.com/)
+Projeto acadêmico de desenvolvimento web, com foco na apresentação de informações e na criação de uma experiência de navegação para um site de chácara.
+
+- **Acessar o site:** [Chácara do Vô Roberto](https://perine1705.github.io/Ch-cara-V-Roberto/)
+
+## Atualmente estudando
+
+- Desenvolvimento web com HTML, CSS e JavaScript.
+- Lógica de programação com Python e C++.
+- Desenvolvimento de jogos.
+- Robótica e aplicações de programação.
+
+## Objetivos
+
+Continuar evoluindo como desenvolvedor, aprimorar minhas habilidades técnicas e construir projetos cada vez mais completos, unindo criatividade e programação.
+
+---
+
+*Este perfil reúne meus projetos e minha evolução na área de tecnologia.*
