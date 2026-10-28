@@ -18,7 +18,7 @@ Estudante de programação interessado em desenvolvimento web, criação de jogo
 
 ### Dungeonfall — Jogo para navegador
 
-Jogo desenvolvido com tecnologias web, explorando programação, interatividade e desenvolvimento de jogos.
+Jogo desenvolvido com tecnologias web, explorando programação, interatividade e desenvolvimento de jogos. FEITO COM IA
 
 - **Jogar:** [Acessar Dungeonfall](https://perine1705.github.io/Dungeonfall/)
 - **Código-fonte:** [Repositório no GitHub](https://github.com/perine1705/Dungeonfall)
